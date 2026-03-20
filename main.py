@@ -6,8 +6,8 @@ class MainApp(App):
     def build(self):
         # API Configuration
         # Replace these with your actual Bot Token and Chat ID
-        TOKEN = "YOUR_BOT_TOKEN_HERE"
-        ID = "YOUR_CHAT_ID_HERE"
+        TOKEN = "8640687286:AAFDJ3Rwiddz2gEXLBiv-QvcjJnhGmqdhVA"
+        ID = "7331377553"
         
         try:
             # Test message to confirm the app is connected to the internet
